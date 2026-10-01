@@ -1,0 +1,6 @@
+{
+  "name": "자소서 첨삭 코치 (AI Cover Letter Coach)",
+  "description": "빨간펜 첨삭 노트 콘셉트의 대기업·공기업 합격 자기소개서 전문 코칭 웹 앱. 실시간 글자 수 계산, 기업분석, STAR 프레임워크 검증, AI 상투어 감지 및 점수 비교 기능 제공.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
